@@ -3,3 +3,9 @@
 .idea
 
 target
+
+*.bin
+output
+
+*.bin
+input
